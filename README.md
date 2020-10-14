@@ -12,9 +12,9 @@ Learn different data structures that can be used to store data. Implement differ
 Learn and implement basic algorithms such as searching and sorting on different data structures and examine the efficiency of these algorithms. Use recursion to implement these algorithms and then learn how some of these algorithms can be implemented without recursion. Practice selecting and modifying these algorithms for a variety of interview problems.
 
 ### Advanced Algorithms
-Build on your algorithm skills by learning more advanced algorithms such as brute-force greedy algorithms, graph algorithms, and dynamic programming which optimizes recursion by storing results to sub problems.
+Build on your algorithm skills by learning more advanced algorithms such as brute-force, greedy algorithms, graph algorithms and dynamic programming which optimizes recursion by storing results to sub problems.
 
 
 
 ##### Disclaimer:
-This material is provided as a guide, __its purpose is not to be copied__ and presented as genuine on Udacities' _project submissions_. Udacities' courses are a journey, __the certificate does not make you knowledgeable, it's the experiencie you gain while you work through it!__
+This material is provided as a guide, __its purpose is not to be copied__ and presented as genuine on Udacities' _project submissions_. Udacities' courses are a journey, __the certificate does not make you knowledgeable, it's the experience you gain while you work through it!__
